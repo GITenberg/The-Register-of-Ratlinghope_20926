@@ -1,0 +1,30 @@
+_repo: The-Register-of-Ratlinghope_20926
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Fletcher, W. G. D. (William George Dimock)
+    aliases:
+    - Fletcher, William George Dimock
+    - Dimock Fletcher, W. G. (William George)
+    birthdate: 1851
+    deathdate: 1935
+    gutenberg_agent_id: '9610'
+    url: http://www.gutenberg.org/2009/agents/9610
+description: ''
+gutenberg_issued: '2007-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Registers of births, etc. -- England'
+- !lcsh 'Church records and registers -- England'
+title: The Register of Ratlinghope
+url: http://www.gutenberg.org/ebooks/20926
